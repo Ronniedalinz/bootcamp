@@ -1,0 +1,163 @@
+PS C:\Users\Hp> cat Desktop/HelloWorld.py
+print "Hello ,World"
+exit()
+PS C:\Users\Hp> cd Desktop
+PS C:\Users\Hp\Desktop> ls
+
+
+    Directory: C:\Users\Hp\Desktop
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2/22/2021   5:03 PM                4.2 NOTES AND CATS
+d-----         9/26/2019   2:50 PM                4th
+d-----          6/2/2021   8:02 PM                bridge eng
+d-----         6/30/2021  10:55 AM                data
+d-----          6/2/2021   8:09 PM                design of water system
+d-----         2/12/2018   3:14 PM                DriversPack 15 (2)
+d-----         1/26/2017  12:50 AM                Dukto
+d-----         10/6/2018   1:52 PM                FLIUD MECHANICS AND HYDRAULICS
+d-----          8/5/2019   3:23 PM                hd ww
+d-----         10/6/2018   1:52 PM                Hydraulics
+d-----          6/2/2021   7:56 PM                law for eng
+d-----         9/26/2019   2:54 PM                nb
+d-----         6/21/2021   9:07 AM                New folder
+d-----          6/2/2021   7:59 PM                prof. eng practice
+d-----        11/19/2019   4:37 PM                ProtaStructure_Suite_Enterprise_2018_SP4
+d-----         3/21/2021  10:27 PM                PUBLIC HEALTH
+d-----         9/29/2020   1:48 PM                Removable Disk
+d-----        10/23/2018   2:27 PM                SEM 1 YR2
+d-----         2/19/2018   5:41 PM                SEM 2 YR2
+d-----         10/6/2018   1:46 PM                SOIL MECHANICS TEXTBOOKS
+d-----        11/27/2018  11:04 AM                Structures
+d-----         6/19/2021   5:46 PM                The Chi S04
+d-----         6/12/2021  11:16 AM                TRANSPORT AND PLANNING
+d-----          6/4/2021  11:24 AM                urban trasportation
+d-----         1/26/2019  10:45 PM                virus lab
+-a----          8/7/2015  10:21 AM        5068805 02.MADILU SYSTEM - RTC Riva.mp3
+-a----         5/14/2017   9:35 PM        1887816 2.1-soilphysical.pdf
+-a----         5/30/2019  12:44 PM            958 BitTorrent.lnk
+-a----        11/16/2019   9:15 AM        1901631 BOUNDARY WALL STRUCTURAL DRAWINGS.pdf
+-a----         6/30/2021   7:03 AM              0 colly.docx
+-a----         2/23/2020   3:01 PM      242866772 DJ_LYTA___RHUMBA__MIX_2018_4_HOURS_NONSTOP_KOFF
+                                                  I_OLOMIDE,_FRANCO,MADILU,FALLY_IPUPA(128k).m4a
+-a----         3/10/2019  11:31 PM            780 Documents - Shortcut (2).lnk
+-a----          7/1/2021  12:12 AM             28 HelloWorld.py
+-a----         1/26/2021   6:31 PM           1061 IM-Magic Partition Resizer Free.lnk
+-a----         9/19/2018   3:13 PM         484767 kk.pdf
+-a----         3/12/2021   9:49 AM        2784686 LAB REPORT TONY.docx
+-a----          3/5/2021   3:39 PM        8645875 LAB TESTING,TANZANIA.pdf
+-a----         2/24/2021   2:38 PM          19520 New Microsoft Excel Worksheet.xlsx
+-a----         12/2/2018   4:18 PM              0 New Microsoft Word Document.docx
+-a----         12/1/2018   1:46 PM          25380 PARSHAL FLUMES ASS.docx
+-a----        10/19/2018  12:02 PM        4002760 PdaNetA5105.exe
+-a----         2/13/2021  12:15 PM          97112 report.docx
+-a----         2/19/2021   4:52 PM        4663139 Road_Construction_Materials_Basic_Knowle_2(1).p
+                                                  df-1.pdf
+-a----         9/26/2018  10:46 PM          60427 roy1.pdf
+-a----          9/8/2018  11:33 AM         486278 rr.pdf
+-a----         6/30/2021  11:51 AM         204837 SDI assignment.docx
+-a----         11/5/2018   7:08 AM         231170 SOIL MECH.docx
+-a----        12/29/2019   7:39 PM           1014 treadstone.s01e09.internal.web.h264-trump[eztv]
+                                                   - Shortcut.lnk
+-a----        12/29/2019   7:39 PM            331 treadstone.s01e10 - Shortcut.lnk
+-a----         9/13/2018   3:12 PM         484844 tt.pdf
+-a----         3/10/2021   7:12 PM           9889 UCS SAGANA.xls
+-a----         2/23/2021   5:19 PM          52224 UCS.xls
+-a----          5/1/2019   2:36 PM            718 Videos - Shortcut.lnk
+-a----         6/30/2021   3:18 PM           1436 Visual Studio Code.lnk
+-a----         4/13/2017   7:25 PM        2645870 WIRELESS CONTROL OF A DC MOTOR.pdf
+-a----         3/18/2021   2:05 PM            938 µTorrent.lnk
+
+
+PS C:\Users\Hp\Desktop> mkdir bootcamp
+
+
+    Directory: C:\Users\Hp\Desktop
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          7/1/2021  12:22 AM                bootcamp
+
+
+PS C:\Users\Hp\Desktop> cd bootcamp
+PS C:\Users\Hp\Desktop\bootcamp> mkdir labs
+
+
+    Directory: C:\Users\Hp\Desktop\bootcamp
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          7/1/2021  12:24 AM                labs
+
+
+PS C:\Users\Hp\Desktop\bootcamp> cd ..
+PS C:\Users\Hp\Desktop> cd bootcamp
+PS C:\Users\Hp\Desktop\bootcamp> cd labs
+PS C:\Users\Hp\Desktop\bootcamp\labs> New-Item file01
+
+
+    Directory: C:\Users\Hp\Desktop\bootcamp\labs
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          7/1/2021  12:27 AM              0 file01
+
+
+PS C:\Users\Hp\Desktop\bootcamp\labs> cd ../..
+PS C:\Users\Hp\Desktop> mkdir food
+
+
+    Directory: C:\Users\Hp\Desktop
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          7/1/2021  12:29 AM                food
+
+
+PS C:\Users\Hp\Desktop> cd food
+PS C:\Users\Hp\Desktop\food> New-Item filepilau
+
+
+    Directory: C:\Users\Hp\Desktop\food
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          7/1/2021  12:30 AM              0 filepilau
+
+
+PS C:\Users\Hp\Desktop\food> New-Item filenyamachoma
+
+
+    Directory: C:\Users\Hp\Desktop\food
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          7/1/2021  12:31 AM              0 filenyamachoma
+
+
+
+
+PS C:\Users\Hp\Desktop\food> cd ..
+PS C:\Users\Hp\Desktop> rm food
+
+Confirm
+The item at C:\Users\Hp\Desktop\food has children and the Recurse parameter was not specified. If
+ you continue, all children will be removed with the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "Y"): yes
+PS C:\Users\Hp\Desktop>
+
+
+
+
+
+
+
+
